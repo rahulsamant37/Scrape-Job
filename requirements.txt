@@ -1,0 +1,10 @@
+careerjet_api_client
+requests
+aiohttp
+chromadb
+PyPDF2
+sentence_transformers
+gradio==3.50
+accelerate-1.2.1
+playwright_stealth
+fake_useragent
